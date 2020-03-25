@@ -73,7 +73,7 @@ if version >= 508 || !exists("did_coq_goals_syntax_inits")
  HiLink coqGoalLine                  Todo
 
  " GOAL IDENTIFIER
- HiLink coqGoalNumber                Underlined
+ "HiLink coqGoalNumber                Underlined
 
  " USUAL VIM HIGHLIGHTINGS
  " Comments

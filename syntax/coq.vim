@@ -319,7 +319,7 @@ if version >= 508 || !exists("did_coq_syntax_inits")
  HiLink coqProofDot coqVernacular
 
  " PROOF DELIMITERS ("Proof", "Qed", "Defined", "Save")
- HiLink coqProofDelim                Underlined
+ "HiLink coqProofDelim                Underlined
 
  " TERMS AND TYPES
  HiLink coqTerm                      Type

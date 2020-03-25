@@ -178,8 +178,8 @@ if version >= 508 || !exists("did_coq_infos_syntax_inits")
  HiLink coqNotationKwd               Special
 
  " SPECIFICATIONS
- HiLink coqArgumentSpecificationKeywords      Underlined
- HiLink coqScopeSpecification                 Underlined
+ "HiLink coqArgumentSpecificationKeywords      Underlined
+ "HiLink coqScopeSpecification                 Underlined
 
  " WARNINGS AND ERRORS
  HiLink coqBad                       WarningMsg
